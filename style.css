@@ -35,6 +35,12 @@ body{
     color: #fff2e7;
     font-weight: 400;
     font-size: 20px;
+    transition: 0.3s ease;
+    padding: 20px 0;
+}
+
+.info:hover{
+  padding: 4px 0;
 }
 
 .conteudo{
